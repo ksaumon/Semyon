@@ -1,7 +1,7 @@
 start-Java.   
 https://github.com/ksaumon/Start-Java   
 Сертификат    
-https://javaops.ru/certificate/startjava?email=semenkuznec@gmail.com
+https://javaops.ru/certificate/startjava?email=semenkuznec@gmail.com   
 basejava.   
 https://github.com/ksaumon/basejava   
 Сертификат    
