@@ -13,6 +13,6 @@ https://github.com/ksaumon/FirstSecurityApp
 FirstRestApp    
 https://github.com/ksaumon/FirstRestApp   
 Project2Boot    
-https://github.com/ksaumon/Project2Boot   
+https://github.com/ksaumon/Project2Boot    
 Project3    
 https://github.com/ksaumon/Project3
