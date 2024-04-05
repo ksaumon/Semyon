@@ -19,5 +19,7 @@ https://github.com/ksaumon/FirstRestApp
 Project2Boot    
 https://github.com/ksaumon/Project2Boot    
 Project3    
-https://github.com/ksaumon/Project3   
+https://github.com/ksaumon/Project3  
+Теория тестирования
+https://github.com/ksaumon/Theory_testing
 
